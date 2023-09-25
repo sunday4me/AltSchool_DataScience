@@ -1,0 +1,9 @@
+Data types and Data structures with Python
+
+1. Mention five simple data types used in Python and state specific use cases for each.
+2. Mention four data structures used in Python and state specific use cases for each. 
+
+#Notes :
+* You are not expected to write code.
+* Use a jupyter notebook [markdown mode] to submit your answers. 
+* Title your notebooks using your names.
